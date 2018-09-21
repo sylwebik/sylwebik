@@ -1,0 +1,485 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201808 will be lost/reset.
+# Last config file used to build this data file was /home/sylwebik/domains/sylwebik.ayz.pl/awstats/.data/awstats.sylwebik.ayz.pl.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 30
+POS_GENERAL 2108                
+POS_TIME 2772                
+POS_VISITOR 6554                
+POS_DAY 7204                
+POS_DOMAIN 3455                
+POS_LOGIN 3687                
+POS_ROBOT 3842                
+POS_WORMS 4090                
+POS_EMAILSENDER 4221                
+POS_EMAILRECEIVER 4364                
+POS_SESSION 7627                
+POS_SIDER 7832                
+POS_FILETYPES 4499                
+POS_DOWNLOADS 4660                
+POS_OS 4708                
+POS_BROWSER 4806                
+POS_SCREENSIZE 4959                
+POS_UNKNOWNREFERER 5033                
+POS_UNKNOWNREFERERBROWSER 5120                
+POS_ORIGIN 5202                
+POS_SEREFERRALS 5340                
+POS_PAGEREFS 5484                
+POS_SEARCHWORDS 5659                
+POS_KEYWORDS 5811                
+POS_MISC 2435                
+POS_ERRORS 5870                
+POS_CLUSTER 3543                
+POS_SIDER_400 6014                
+POS_SIDER_404 6184                
+POS_SIDER_403 6096                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180901024216 10 1711 9301905538679
+FirstTime 0
+LastTime 20180831210249
+LastUpdate 20180901042936 10 0 9 0 0
+TotalVisits 23                  
+TotalUnique 14                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 14                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 15 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 4 7 280129
+1 0 0 0 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 1 2 155621
+4 0 0 0 2 3 22082
+5 0 0 0 0 0 0
+6 1 1 9983 29 32 46643
+7 0 0 0 1 2 1663
+8 0 0 0 3 5 168245
+9 34 45 406723 1 3 10804
+10 55 62 171774 3 5 2967
+11 11 11 72476 30 40 800371
+12 90 107 1143926 19 38 181694
+13 0 0 0 24 42 1236587
+14 0 0 0 0 0 0
+15 0 0 0 10 15 264474
+16 0 0 0 2 4 181141
+17 92 108 1160573 18 22 220061
+18 106 115 1126083 17 21 206910
+19 115 132 890722 28 34 163218
+20 208 247 2023686 10 21 98251
+21 251 296 2453847 20 31 46906
+22 64 72 216599 43 44 126391
+23 22 33 175008 2 2 1987
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 1049 1229 9851400
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 3
+YandexBot/ 27 169372 20180831130722 0
+favicon 2 19965 20180808205611 0
+facebookexternalhit/ 1 9947 20180808203544 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+png 126 340944 0 0
+gif 24 28715 0 0
+css 30 91329 0 0
+Unknown 235 1386451 0 0
+php 814 8003961 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 2
+linuxandroid 1 1
+win10 1228 1048
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 4
+chrome68.0.3440.84 371 335
+chrome67.0.3396.99 15 15
+chrome68.0.3440.106 842 698
+chrome67.0.3396.87 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 661 772
+From1 0 0
+From2 0 0
+From3 1 1
+From4 387 456
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://l.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+500 45 2498869
+404 165 1048265
+403 35 274278
+301 1 517
+302 53 58303
+END_ERRORS
+
+# URL with 400 errors - Hits - Last URL referrer
+BEGIN_SIDER_400 0
+END_SIDER_400
+
+# URL with 403 errors - Hits - Last URL referrer
+BEGIN_SIDER_403 1
+/ 1 -
+END_SIDER_403
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 3
+/robots.txt 2 -
+/ 2 -
+/_wdt/d1c861 5 http://sylwebik.ayz.pl/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 14
+89.64.10.197 277 297 2372392 20180808220744
+91.231.118.253 183 218 1883301 20180831210249
+89.64.23.195 183 200 751208 20180812220316
+89.64.23.75 112 129 870711 20180822211125
+89.64.10.177 58 74 730056 20180807221712
+89.64.23.90 51 62 422003 20180815100711
+89.64.23.209 50 72 875068 20180823203300
+89.64.24.71 40 48 215317 20180813221336
+89.64.22.192 22 38 569897 20180821212747
+46.21.223.35 20 20 25848 20180820102006
+89.64.22.67 19 32 524317 20180814213405
+89.64.10.214 19 24 497325 20180809173301
+37.248.253.171 14 14 103974 20180808204921
+66.102.9.5 1 1 9983 20180808064921
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20180807 58 74 730056 1
+20180808 293 313 2496331 5
+20180809 19 24 497325 1
+20180810 60 71 507496 3
+20180811 19 26 140628 1
+20180812 183 200 751208 1
+20180813 40 48 215317 2
+20180814 19 32 524317 1
+20180815 51 62 422003 1
+20180820 19 19 15866 1
+20180821 22 38 569897 1
+20180822 112 129 870711 2
+20180823 50 72 875068 1
+20180825 100 117 1206420 1
+20180831 4 4 28757 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 3
+1h+ 4
+2mn-5mn 2
+0s-30s 9
+30mn-1h 1
+5mn-15mn 1
+30s-2mn 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 197
+/phpmyadmin/js/get_scripts.js.php 115 4069016 0 4
+/ 110 535976 13 4
+/phpmyadmin/ 91 575736 10 4
+/phpmyadmin/navigation.php 74 245391 0 1
+/phpmyadmin/sql.php 62 444832 0 0
+/phpmyadmin/db_structure.php 38 270498 0 0
+/phpmyadmin/js/get_image.js.php 37 88156 0 0
+/phpmyadmin/js/whitelist.php 37 37617 0 0
+/phpmyadmin/js/messages.php 37 396296 0 0
+/login 33 282851 0 0
+/_wdt/b5adeb 1 4091 0 0
+/_wdt/06ca80 1 4393 0 0
+/_wdt/5d5b3f 1 4682 0 0
+/_wdt/d2469b 1 5235 0 0
+/course/info/1 1 986 0 0
+/_wdt/196dd2 1 5108 0 0
+/_wdt/bc7696 1 5214 0 0
+/_wdt/6c3550 1 4078 0 0
+/_wdt/f8c7e6 1 4389 0 0
+/_wdt/5d13ec 1 4379 0 0
+/phpmyadmin/prefs_manage.php 3 12005 0 0
+/_wdt/b8cc09 1 4662 0 0
+/_wdt/560dc2 1 4098 0 0
+/_wdt/7f2eeb 1 4791 0 0
+/_wdt/9f38ca 1 4382 0 0
+/_wdt/7b96dd 1 3762 0 0
+/_wdt/8d9284 1 4787 0 0
+/_wdt/a0c6ea 1 4303 0 1
+/_wdt/e45b49 1 4101 0 0
+/_wdt/2d276b 1 4099 0 0
+/phpmyadmin/server_collations.php 2 10583 0 0
+/_wdt/47b897 1 4946 0 0
+/_wdt/256994 1 4385 0 0
+/_profiler/efcc8e 1 26527 0 0
+/_wdt/acf774 1 4303 0 0
+/_profiler/open 1 4997 0 0
+/subject/ 23 38830 0 0
+/user/course/info/1 1 1037 0 0
+/index 8 80676 0 0
+/_wdt/28994d 1 3751 0 0
+/_wdt/05f9a9 1 4103 0 0
+/_wdt/72c68d 1 4783 0 0
+/phpmyadmin/version_check.php 26 31509 0 1
+/_wdt/f9060e 1 4585 0 0
+/_wdt/0935e3 1 3749 0 0
+/_wdt/8ce6a0 1 3732 0 0
+/phpmyadmin/import.php 6 35404 0 0
+/_wdt/ff9a1f 1 4688 0 0
+/_wdt/ea291b 1 4703 0 1
+/_wdt/370e6e 1 4099 0 0
+/_wdt/708b74 1 5292 0 0
+/_wdt/4d7ed3 1 3749 0 0
+/phpmyadmin/server_sql.php 2 11154 0 0
+/_wdt/06bd6d 1 4786 0 0
+/_wdt/fa837d 1 4382 0 0
+/register 13 114610 0 0
+/_wdt/82dd1c 1 4680 0 0
+/_wdt/1d657d 1 3735 0 0
+/_wdt/73b88d 1 4686 0 0
+/_wdt/736e0b 1 5331 0 1
+/_wdt/c77258 1 5240 0 0
+/_wdt/c25cb7 1 3748 0 0
+/_wdt/c81b33 1 4948 0 0
+/type/ 13 38806 0 1
+/_wdt/60c1ee 1 4099 0 0
+/user/course/ 6 5053 0 0
+/_wdt/470631 1 5241 0 0
+/_wdt/297f90 1 4102 0 0
+/_wdt/84a339 1 3750 0 0
+/phpmyadmin/tbl_replace.php 3 9430 0 0
+/_wdt/564573 1 5221 0 0
+/_wdt/b2fa49 1 3749 0 0
+/phpmyadmin/tbl_structure.php 22 197814 0 0
+/_wdt/03c329 1 4302 0 0
+/_wdt/6a34db 1 4675 0 0
+/phpmyadmin/db_sql.php 7 53131 0 0
+/subject/new 2 2014 0 0
+/_wdt/4817eb 1 5217 0 0
+/_profiler/3b964f 1 25730 0 0
+/_wdt/85922e 1 4387 0 0
+/_wdt/b9049f 1 4686 0 1
+/phpmyadmin/server_export.php 1 13760 0 0
+/_wdt/6d930e 1 4791 0 0
+/_wdt/ce97b6 1 5335 0 0
+/_wdt/46d0ca 1 4679 0 0
+/type/info/1 1 936 0 0
+/_wdt/b35040 1 4646 0 0
+/phpmyadmin/server_status.php 2 6427 0 0
+/_wdt/9e5135 1 3752 0 0
+/_wdt/0db2cf 1 3751 0 0
+/admin/users 8 43996 0 0
+/_wdt/6e0f73 1 5022 0 0
+/_profiler/297f90 1 25842 0 0
+/phpmyadmin/server_plugins.php 1 4025 0 0
+/_wdt/21e026 1 4683 0 1
+/_wdt/13e530 1 4101 0 0
+/_wdt/ea4777 1 4592 0 1
+/_wdt/b2afa4 1 4392 0 0
+/_wdt/2be8ec 1 4389 0 0
+/_wdt/bc6fae 1 4393 0 0
+/_profiler/a06b88 1 26522 0 0
+/_wdt/a06b88 1 5240 0 0
+/phpmyadmin/chk_rel.php 1 3632 0 0
+/_wdt/671741 1 3732 0 0
+/_wdt/3b964f 1 3738 0 0
+/_wdt/04a820 1 4687 0 0
+/phpmyadmin/db_sql_autocomplete.php 6 16028 0 0
+/_wdt/de9f36 1 4790 0 0
+/_wdt/366ed1 1 4682 0 0
+/_wdt/b557a4 1 5321 0 0
+/_wdt/ef1bcf 1 3748 0 0
+/_wdt/8dc79d 1 4685 0 0
+/type/info/2 1 937 0 0
+/_wdt/f2ca65 1 4693 0 0
+/phpmyadmin/server_databases.php 4 15276 0 0
+/_wdt/4e3c81 1 4651 0 0
+/_wdt/762962 1 4398 0 0
+/_wdt/e9cf05 1 4806 0 0
+/course/new 5 5598 0 0
+/_wdt/18b377 1 4103 0 0
+/_wdt/9f3307 1 5318 0 0
+/_wdt/a8c4ae 1 4805 0 0
+/admin/ 19 106384 0 0
+/_wdt/f026b0 1 4364 0 0
+/phpmyadmin/db_operations.php 1 7086 0 0
+/_wdt/4461cb 1 4105 0 0
+/type/new 3 2697 0 0
+/_wdt/546f26 1 4389 0 0
+/_wdt/d8da0e 1 4304 0 0
+/_wdt/f24d3c 1 4686 0 0
+/_wdt/ed5461 1 4703 0 0
+/course/search 5 51593 0 0
+/_wdt/90e2c1 1 4104 0 0
+/_wdt/67bbf4 1 4106 0 0
+/_wdt/756b24 1 3741 0 0
+/_wdt/979a7c 1 4101 0 0
+/_wdt/9d5de8 1 4384 0 0
+/_wdt/9a4e88 1 4301 0 0
+/_wdt/3edf4f 1 4102 0 0
+/_wdt/555927 1 4389 0 0
+/course/ 18 34613 0 1
+/_wdt/8e1494 1 4687 0 0
+/_wdt/3071ab 1 4396 0 0
+/_wdt/7d9201 1 4388 0 0
+/_wdt/ca9119 1 3751 0 0
+/_wdt/f7e113 1 4100 0 0
+/phpmyadmin/server_variables.php 2 35515 0 0
+/_wdt/c3cdfe 1 4106 0 0
+/phpmyadmin/lint.php 8 9419 0 0
+/_wdt/21e37a 1 4105 0 0
+/phpmyadmin/phpmyadmin.css.php 32 620677 0 0
+/_wdt/661054 1 4398 0 0
+/_wdt/b267ea 1 3755 0 0
+/_wdt/dd882e 1 5007 0 0
+/_wdt/08683d 1 4687 0 0
+/_wdt/fb7d01 1 4957 0 0
+/_wdt/4c6724 1 4662 0 0
+/_wdt/398f45 1 4377 0 0
+/_wdt/edc655 1 4294 0 1
+/_wdt/1f0d53 1 3748 0 0
+/_wdt/efcc8e 1 5215 0 0
+/_wdt/985251 1 5230 0 0
+/_wdt/101e28 1 4686 0 0
+/_wdt/8a1439 1 3737 0 0
+/profile 5 50253 0 0
+/user/course/edit/1 1 1146 0 0
+/_wdt/562ee7 1 4791 0 0
+/_wdt/0bef14 1 4100 0 0
+/_wdt/cd29fc 1 5223 0 0
+/_wdt/dcfbb1 1 4654 0 0
+/admin/user/6 1 10303 0 0
+/_wdt/76f4c8 1 5020 0 0
+/_wdt/72d2a8 1 5018 0 0
+/_wdt/c9b6e7 1 4684 0 0
+/phpmyadmin/server_import.php 2 15055 0 0
+/_wdt/0ec470 1 5022 0 0
+/_wdt/04dc0c 1 3751 0 0
+/_wdt/e25a49 1 4102 0 0
+/_wdt/f520ee 1 5245 0 0
+/_wdt/0bb81f 1 4363 0 0
+/_wdt/8e9bd4 1 4644 0 0
+/_wdt/67379d 1 4385 0 0
+/_wdt/5bfb41 1 4397 0 0
+/_wdt/19ef40 1 4660 0 0
+/_wdt/413a98 1 3777 0 0
+/_wdt/0ab5ba 1 3780 0 0
+/type/edit/2 1 1041 0 0
+/_wdt/7dbf80 1 4103 0 0
+/_wdt/5cbf8e 1 5013 0 0
+/_wdt/5f587c 1 3759 0 0
+/phpmyadmin/server_privileges.php 1 2688 0 0
+/phpmyadmin/server_engines.php 2 6139 0 0
+/_wdt/ed7e73 1 3749 0 0
+/_wdt/956af2 1 5238 0 0
+/user/course/new 1 985 0 0
+/_wdt/d45c14 1 5221 0 0
+/_wdt/3100c1 1 4100 0 0
+END_SIDER

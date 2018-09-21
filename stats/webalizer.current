@@ -1,0 +1,716 @@
+# Webalizer V2.01-10 Incremental Data - 09/20/2018 23:22:33
+2018 9 20 23 22 33
+556 398 39 204 29 5 9990887 354 70 0
+3 17 123 1 20
+9 4 570017 9 5 5
+7 3 233992 5 4 3
+31 25 448557 2 28 2
+129 107 1245537 7 124 4
+0 0 0 0 0 0
+13 6 408530 9 7 6
+12 7 341045 5 7 5
+4 1 171352 2 2 2
+4 1 240176 2 2 2
+0 0 0 0 0 0
+123 114 1522134 4 32 8
+7 5 104938 3 5 2
+6 4 70785 1 5 1
+4 1 237057 4 2 2
+12 7 299275 2 8 3
+39 22 835305 5 23 4
+74 40 1534558 6 44 7
+19 12 392458 7 13 6
+37 22 780103 4 25 5
+26 17 555068 3 18 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+2 1 228381 1
+0 0 0 0
+6 2 399734 3
+0 0 0 0
+7 3 290381 4
+0 0 0 0
+6 4 94298 4
+0 0 0 0
+20 12 354182 12
+68 49 1196536 56
+20 8 743987 11
+192 140 2592317 161
+7 3 285615 4
+9 5 301279 6
+8 6 229255 6
+0 0 0 0
+112 99 1622612 19
+21 14 306520 15
+10 7 152218 7
+46 30 848038 30
+5 3 90560 3
+17 12 254974 12
+0
+0
+0
+398
+0
+0
+0
+0
+0
+0
+0
+0
+18
+0
+0
+0
+0
+0
+0
+0
+16
+104
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+0
+0
+0
+0
+0
+# -urls- 
+/_wdt/1f46d5
+0 1 0 3751 0 0
+/_wdt/b45db5
+0 1 0 4357 0 0
+/_wdt/ea8fa2
+0 1 0 3755 0 0
+/_wdt/a07e23
+0 1 0 3756 0 1
+/_wdt/ef11b8
+0 1 0 5324 0 0
+/
+0 70 0 698246 64 20
+/phpmyadmin/themes/pmahomme/img/s_collapseall.png
+0 1 0 412 0 0
+/phpmyadmin/themes/pmahomme/img/logo_right.png
+0 1 0 4578 0 0
+/_wdt/2a63a3
+0 1 0 3757 0 0
+/_wdt/254d6f
+0 1 0 4356 0 0
+/_wdt/3ef5b0
+0 1 0 4371 0 0
+/_wdt/ff219e
+0 1 0 4340 0 0
+/_wdt/fa32ff
+0 1 0 3774 0 0
+/_wdt/364b3f
+0 1 0 5214 0 0
+/_wdt/abdd58
+0 1 0 5525 0 0
+/_wdt/636274
+0 1 0 3749 0 0
+/phpmyadmin/js/codemirror/addon/lint/lint.css
+0 1 0 1601 0 0
+/_wdt/3d2d6c
+0 1 0 3738 1 1
+/_wdt/f67e74
+0 1 0 3758 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+0 1 0 392 0 0
+/_wdt/3c583a
+0 1 0 4677 0 0
+/_wdt/ab1526
+0 1 0 3756 1 1
+/_wdt/e11c5d
+0 1 0 5329 0 0
+/_wdt/88bdd4
+0 1 0 4346 0 0
+/phpmyadmin/themes/dot.gif
+0 1 0 311 0 0
+/phpmyadmin/db_sql_autocomplete.php
+0 1 0 2597 0 0
+/phpmyadmin/themes/pmahomme/img/ajax_clock_small.gif
+0 1 0 2082 0 0
+/_wdt/f490bc
+0 1 0 4667 0 0
+/_wdt/ea70a4
+0 1 0 4008 0 0
+/_wdt/0f0c3d
+0 1 0 4360 0 0
+/_wdt/d5c047
+0 1 0 4014 0 0
+/_wdt/12eab0
+0 1 0 3752 0 0
+/_wdt/406a4c
+0 1 0 3779 0 0
+/_wdt/b7425a
+0 1 0 3754 1 0
+/_wdt/242edd
+0 1 0 5114 0 0
+/phpmyadmin/
+0 6 0 36806 1 1
+/_wdt/70008d
+0 1 0 4026 0 0
+/_wdt/ff2803
+0 1 0 4030 0 0
+/_wdt/eee673
+0 1 0 4685 0 0
+/_wdt/ffb38d
+0 1 0 5286 0 1
+/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_888888_256x240.png
+0 1 0 4037 0 0
+/_wdt/1d7a39
+0 1 0 3751 0 0
+/_wdt/5dcef8
+0 1 0 3747 0 0
+/_wdt/f459f8
+0 1 0 4371 0 0
+/_wdt/3e24e6
+0 1 0 3759 0 0
+/phpmyadmin/db_sql.php
+0 1 0 5687 0 0
+/subject/
+0 12 0 123728 0 0
+/_wdt/860111
+0 1 0 5838 0 0
+/_wdt/9a331e
+0 1 0 3754 0 0
+/_wdt/684187
+0 1 0 4685 0 0
+/_wdt/0e95c3
+0 1 0 3753 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_dadada_1x400.png
+0 1 0 395 0 0
+/_wdt/4877fc
+0 1 0 4024 0 0
+/_wdt/aad6bb
+0 1 0 4030 0 0
+/_wdt/172a32
+0 1 0 5238 0 0
+/_wdt/817f42
+0 1 0 4296 0 0
+/_wdt/8ed02a
+0 1 0 4025 0 0
+/_wdt/2a3c6f
+0 1 0 5295 0 0
+/_wdt/0d2e3d
+0 1 0 5514 0 0
+/_wdt/10d728
+0 1 0 4702 0 0
+/type/edit/1
+0 2 0 20726 0 0
+/_wdt/9103aa
+0 1 0 3736 0 0
+/_wdt/e34eec
+0 1 0 4683 0 0
+/type/edit/5
+0 1 0 10321 0 0
+/_wdt/f1302a
+0 1 0 4685 0 0
+/_wdt/bbe28d
+0 1 0 4363 0 0
+/_wdt/965ac5
+0 1 0 3753 0 0
+/_wdt/7e70a9
+0 1 0 4686 0 0
+/_wdt/de2478
+0 1 0 4692 0 0
+/phpmyadmin/themes/pmahomme/img/left_nav_bg.png
+0 1 0 415 0 0
+/_wdt/ded4cc
+0 1 0 4297 0 0
+/_wdt/5e4b60
+0 1 0 3755 0 0
+/_wdt/c199e3
+0 1 0 5512 0 0
+/_wdt/237c6e
+0 1 0 4713 0 1
+/_wdt/3927ce
+0 1 0 3772 0 0
+/subject/new
+0 1 0 10208 0 0
+/_wdt/4cfba6
+0 1 0 4011 0 0
+/_wdt/aaefcc
+0 1 0 4685 0 0
+/_wdt/b37987
+0 1 0 4361 0 0
+/_wdt/699c6d
+0 1 0 3736 0 0
+/_wdt/eabd55
+0 1 0 3733 0 0
+/_wdt/d53b38
+0 1 0 5279 0 0
+/_wdt/72f217
+0 1 0 3779 0 0
+/_wdt/ceebd4
+0 1 0 4680 0 0
+/phpmyadmin/js/messages.php
+0 2 0 21421 0 0
+/_wdt/dc265e
+0 1 0 4950 0 1
+/_wdt/0f2fe6
+0 1 0 5228 0 0
+/_wdt/cb62f7
+0 1 0 5220 0 0
+/_wdt/ddbcff
+0 1 0 5289 0 0
+/_wdt/13e7c1
+0 1 0 4023 0 0
+/_wdt/048acb
+0 1 0 4685 0 0
+/_wdt/90b88e
+0 1 0 4913 0 0
+/phpmyadmin/navigation.php
+0 10 0 33310 0 0
+/subject/info/1
+0 1 0 10330 0 0
+/_wdt/54a016
+0 1 0 4689 0 0
+/_wdt/8406a2
+0 1 0 3756 0 1
+/_wdt/9f70b0
+0 1 0 4685 0 0
+/phpmyadmin/js/get_scripts.js.php
+0 11 0 600740 0 0
+/_wdt/827b9f
+0 1 0 3737 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_65_ffffff_1x400.png
+0 1 0 341 0 0
+/_wdt/01e281
+0 1 0 5293 0 0
+/_wdt/70f679
+0 1 0 5232 0 0
+/_wdt/0064f5
+0 1 0 3757 1 1
+/_wdt/d0beb4
+0 1 0 4353 0 0
+/admin/users
+0 2 0 20314 0 0
+/robots.txt
+0 1 0 1050 0 0
+/_wdt/f4dec7
+0 1 0 4358 0 0
+/phpmyadmin/js/codemirror/lib/codemirror.css
+0 1 0 2787 0 0
+/_wdt/add499
+0 1 0 3757 0 0
+/_wdt/514128
+0 1 0 4954 0 0
+/_wdt/5115e2
+0 1 0 5245 0 0
+/_wdt/becd9e
+0 1 0 4298 0 0
+/_wdt/797ded
+0 1 0 4028 0 0
+/_wdt/1a0241
+0 1 0 4685 0 0
+/phpmyadmin/themes/pmahomme/img/s_fulltext.png
+0 1 0 446 0 0
+/_wdt/63bf79
+0 1 0 4014 0 1
+/_wdt/5a0cc2
+0 1 0 3735 0 0
+/_wdt/1d16fe
+0 1 0 4686 0 0
+/phpmyadmin/js/whitelist.php
+0 2 0 2033 0 0
+/_wdt/fccdbb
+0 1 0 3755 0 1
+/_wdt/42bb79
+0 1 0 4028 0 0
+/_wdt/84a440
+0 1 0 5288 0 0
+/_wdt/9afe2c
+0 1 0 5243 0 0
+/_wdt/96ae86
+0 1 0 4361 0 0
+/login
+0 31 0 320390 1 0
+/_wdt/cf74d0
+0 1 0 5291 0 0
+/_wdt/ae81a4
+0 1 0 3776 0 1
+/_wdt/954d92
+0 1 0 5527 0 0
+/_wdt/088929
+0 1 0 3754 0 0
+/_wdt/ab0561
+0 1 0 4685 0 0
+/_wdt/0817df
+0 1 0 4024 0 0
+/_wdt/0a49d5
+0 1 0 5332 0 0
+/_wdt/2908db
+0 1 0 3756 0 1
+/_wdt/62cc27
+0 1 0 4690 0 0
+/phpmyadmin/themes/pmahomme/img/col_drop.png
+0 1 0 381 0 0
+/_wdt/d39785
+0 1 0 4356 0 0
+/_wdt/d39d10
+0 1 0 3756 0 0
+/_wdt/bd0d7c
+0 1 0 3758 0 0
+/_wdt/dd823b
+0 1 0 4344 0 0
+/phpmyadmin/lint.php
+0 1 0 1174 0 0
+/_wdt/02516c
+0 1 0 3755 0 0
+/_wdt/816f14
+0 1 0 3756 0 1
+/type/
+0 3 0 30588 0 0
+/phpmyadmin/themes/pmahomme/jquery/jquery-ui.css
+0 1 0 8820 0 0
+/_wdt/6048cd
+0 1 0 4015 0 0
+/_wdt/39d5d2
+0 1 0 5232 0 0
+/subject/edit/1
+0 2 0 21034 0 0
+/phpmyadmin/db_operations.php
+0 2 0 21385 0 0
+/_wdt/a64195
+0 1 0 5215 0 0
+/_wdt/1dab8c
+0 1 0 4016 0 1
+/phpmyadmin/themes/pmahomme/img/sprites.png
+0 1 0 15134 0 0
+/_wdt/a535ab
+0 1 0 4013 0 0
+/_wdt/2c1efa
+0 1 0 4707 0 1
+/_wdt/ad8713
+0 1 0 5293 0 1
+/_wdt/9bf5f9
+0 1 0 3738 0 0
+/index
+0 13 0 131109 0 0
+/_wdt/4dc71b
+0 1 0 4355 0 0
+/_wdt/cf4f8f
+0 1 0 3753 0 0
+/phpmyadmin/js/get_image.js.php
+0 2 0 4765 0 0
+/phpmyadmin/js/codemirror/addon/hint/show-hint.css
+0 1 0 656 0 0
+/_wdt/4558e9
+0 1 0 3751 0 0
+/_wdt/a77a74
+0 1 0 3752 0 0
+/_wdt/4f8462
+0 1 0 4692 0 0
+/_wdt/7e6ac8
+0 1 0 4683 0 0
+/_wdt/cffdd4
+0 1 0 5301 0 0
+/course/search
+0 11 0 113487 0 0
+/_wdt/020f5b
+0 1 0 3758 0 0
+/phpmyadmin/sql.php
+0 23 0 97054 0 0
+/_wdt/28ae13
+0 1 0 3758 0 0
+/phpmyadmin/themes/pmahomme/img/col_pointer.png
+0 1 0 371 0 0
+/_wdt/0a628e
+0 1 0 4030 0 0
+/_wdt/08bb2a
+0 1 0 3754 0 0
+/phpmyadmin/themes/pmahomme/css/printview.css
+0 1 0 1357 0 0
+/profile
+0 1 0 10227 0 0
+/phpmyadmin/import.php
+0 1 0 7489 0 0
+/_wdt/ec6092
+0 1 0 4354 0 0
+/_wdt/a3c63e
+0 1 0 5214 0 0
+/_wdt/bd6562
+0 1 0 3754 0 0
+/phpmyadmin/phpmyadmin.css.php
+0 2 0 41379 0 0
+/_wdt/ae7c72
+0 1 0 4380 0 0
+/_wdt/2452f2
+0 1 0 3755 0 0
+/_wdt/f0b410
+0 1 0 3734 0 0
+/_wdt/ac7e3b
+0 1 0 4027 0 0
+/_wdt/da8034
+0 1 0 4390 0 0
+/phpmyadmin/themes/pmahomme/img/logo_left.png
+0 1 0 2985 0 0
+/phpmyadmin/favicon.ico
+0 2 0 19280 0 0
+/_wdt/7ee3df
+0 1 0 4026 0 0
+/_wdt/f4034b
+0 1 0 3751 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-icons_222222_256x240.png
+0 1 0 4037 0 0
+/phpmyadmin/themes/pmahomme/img/arrow_ltr.png
+0 1 0 371 0 0
+/_wdt/8f9926
+0 1 0 4935 0 0
+/_wdt/ef545b
+0 1 0 3757 0 0
+/_wdt/0f5063
+0 1 0 5515 0 0
+/_wdt/70393c
+0 1 0 4361 0 0
+/admin/
+0 3 0 29923 0 0
+/_wdt/853147
+0 1 0 5848 0 0
+/_wdt/8b8b7a
+0 1 0 3752 0 0
+/_wdt/5e9583
+0 1 0 4546 0 0
+/_wdt/66c381
+0 1 0 3773 0 0
+/phpmyadmin/themes/pmahomme/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png
+0 1 0 391 0 0
+/phpmyadmin/db_structure.php
+0 1 0 7324 0 0
+/register
+0 4 0 41061 0 0
+/_wdt/0a364b
+0 1 0 3759 0 0
+/_wdt/b4b165
+0 1 0 3756 0 0
+# End Of Table - urls
+# -sites- (monthly)
+89.64.22.129
+0 7 4 127804 2 1537216230
+/_wdt/72f217
+66.102.9.2
+0 6 2 147277 2 1536302735
+/
+66.102.9.5
+0 3 1 76769 1 1536749018
+/
+66.102.9.8
+0 1 1 3754 1 1537260762
+/_wdt/b7425a
+89.64.23.171
+0 5 4 61768 1 1537462711
+/_wdt/88bdd4
+213.180.203.37
+0 3 3 30059 3 1537100663
+/
+89.64.23.181
+0 3 2 47103 1 1537383791
+/_wdt/add499
+37.9.113.87
+0 1 0 5849 1 1536930417
+/
+37.9.113.90
+0 2 1 15989 1 1535769740
+/
+141.8.142.58
+0 1 0 5849 1 1535802951
+/
+141.8.132.19
+0 1 1 10019 1 1536063503
+/
+89.64.22.180
+0 5 4 61635 1 1536789312
+/_wdt/ff219e
+141.8.142.92
+0 2 1 225244 1 1536097476
+/
+178.154.200.14
+0 1 0 5967 0 0
+-
+91.231.118.253
+0 14 10 204058 4 1537100759
+/_wdt/965ac5
+87.250.224.54
+0 1 0 164894 0 0
+-
+178.154.200.52
+0 1 0 5849 1 1536063503
+/
+178.154.200.56
+0 1 0 5967 0 0
+-
+141.8.183.10
+0 2 0 156881 0 0
+-
+141.8.183.16
+0 1 0 5849 1 1536214446
+/
+46.21.223.35
+0 257 196 2902677 7 1537357999
+/_wdt/f490bc
+87.250.224.92
+0 37 8 2257575 12 1537466625
+/
+37.128.12.154
+0 17 12 254974 1 1537485753
+/_wdt/eee673
+5.255.253.2
+0 1 0 152312 0 0
+-
+66.249.93.7
+0 2 1 43302 1 1537222419
+/
+89.64.22.220
+0 9 8 90493 2 1537307143
+/_wdt/f459f8
+89.64.22.231
+0 3 2 47261 1 1535916269
+/_wdt/0a364b
+89.64.22.248
+0 6 4 70785 1 1536868081
+/_wdt/0e95c3
+5.45.207.32
+0 11 5 491416 6 1537366309
+/
+5.45.207.58
+0 1 0 156576 0 0
+-
+5.255.253.10
+0 2 1 228380 1 1536214435
+/
+37.109.33.92
+0 32 19 549990 1 1537134400
+/_wdt/aad6bb
+66.102.9.154
+0 5 2 120274 2 1537253588
+/
+66.102.9.156
+0 6 5 77112 4 1537218334
+/
+66.102.9.158
+0 3 2 47258 2 1537260762
+/
+89.64.22.50
+0 98 95 1064622 3 1536699121
+/_wdt/dd823b
+89.64.22.64
+0 3 2 47254 1 1536263659
+/_wdt/ea8fa2
+141.8.142.119
+0 1 1 10021 1 1535818180
+/
+141.8.142.195
+0 1 1 10021 1 1535802952
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+89.64.23.171
+0 5 4 61768 1 1537462711
+/_wdt/88bdd4
+87.250.224.92
+0 4 1 238326 1 1537466625
+/
+37.128.12.154
+0 17 12 254974 1 1537485753
+/_wdt/eee673
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 235
+http://sylwebik.ayz.pl/subject/
+0 18
+http://sylwebik.ayz.pl/profile
+0 2
+http://sylwebik.ayz.pl/subject/info/1
+0 1
+http://sylwebik.ayz.pl/admin/
+0 6
+http://sylwebik.ayz.pl/course/search
+0 19
+http://sylwebik.ayz.pl/phpmyadmin/phpmyadmin.css.php
+0 4
+http://sylwebik.ayz.pl/assets/css/sylwebik.css
+0 6
+http://sylwebik.ayz.pl/type/edit/1
+0 4
+http://sylwebik.ayz.pl/type/edit/5
+0 1
+http://sylwebik.ayz.pl/assets/css/bootstrap.min.css
+0 1
+http://sylwebik.ayz.pl/
+0 119
+http://sylwebik.ayz.pl/subject/new
+0 3
+http://sylwebik.ayz.pl/subject/edit/1
+0 5
+http://sylwebik.ayz.pl//domains/sylwebik.ayz.pl/assets/sylwebik.css
+0 1
+http://sylwebik.ayz.pl/phpmyadmin/themes/pmahomme/jquery/jquery-ui.css
+0 6
+http://sylwebik.ayz.pl//domains/sylwebik.ayz.pl/assets/css
+0 1
+http://sylwebik.ayz.pl/login
+0 65
+http://sylwebik.ayz.pl/admin/users
+0 3
+http://sylwebik.ayz.pl/type/
+0 5
+http://sylwebik.ayz.pl/css/sylwebik.css
+0 3
+http://sylwebik.ayz.pl/index
+0 33
+http://sylwebik.ayz.pl/domains/sylwebik.ayz.pl/assets/css
+0 2
+http://sylwebik.ayz.pl/sylwebik.css
+0 1
+http://sylwebik.ayz.pl//domains/sylwebik.ayz.pl
+0 1
+http://sylwebik.ayz.pl/assets/sylwebik.css
+0 2
+http://sylwebik.ayz.pl/register
+0 7
+http://sylwebik.ayz.pl/assets/css
+0 1
+http://sylwebik.ayz.pl/course/new
+0 1
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWe
+0 2
+Mozilla/5.0 (Linux; Android 8.1.0; COL-L29 Build/HUAWEICOL-L2
+0 12
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
+0 459
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bo
+0 69
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, li
+0 14
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
